@@ -1,0 +1,33 @@
+.ab-block {
+    background-color: #ddd;
+    padding: 12px;
+    margin: 12px 0;
+}
+
+.ab-block-controls {
+    display: flex;
+    justify-content: space-between;
+}
+
+.ab-block-subview {
+    margin-top: 8px;
+}
+
+.ab-doc-title-input {
+    font-size: 1.5rem;
+    border: solid 1px #ccc;
+    padding: 6px;
+    width: 100%;
+}
+
+.ab-editor-instance {
+    border: solid 1px #ccc;
+    padding: 24px;
+    flex: 1;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.ab-app-root {
+    display: flex;
+    margin: 36px;
+}
