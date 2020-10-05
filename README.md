@@ -1,2 +1,2 @@
-# autoblock-editor
+# Autoblock editor
 Multi-user block based document editor
